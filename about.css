@@ -54,8 +54,8 @@ nav {
 section {
   justify-items: center;
   align-items: center;
-  padding-left: 20rem;
-  padding-right: 20rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
   padding-top: 1rem;
 }
 
@@ -64,4 +64,8 @@ img {
   height: auto;
   border-radius: 12px;
   box-shadow: 4px 4px 12px;
+}
+
+p {
+  max-width: 50%;
 }
